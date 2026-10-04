@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rudranil-devo/Rudranil-devo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · rudranil-devo</sub></p>
+<h1>Rudranil Chatterjee</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Builder &amp; vibe coder turning ideas into reality with AI, Python, and rapid prototyping.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-Here are some ideas to get you started:
+<p><a href="https://github.com/rudranil-devo">GitHub</a> &nbsp;·&nbsp; <a href="https://(https://github.com/Rudranil-devo/my-first-project)">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/331300774?u=d2158c79c4e26e420f7e19481fe5ecd321c543b0&amp;v=4" width="180" alt="Rudranil Chatterjee GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>3 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>13 contributions · 4 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Builder &amp; vibe coder turning ideas into reality with AI, Python, and rapid prototyping.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Rudranil Chatterjee GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&repos=rudranil-devo%2Faurastream-backend%2Crudranil-devo%2Fmy-first-project%2Crudranil-devo%2FRudranil-devo&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&repos=rudranil-devo%2Faurastream-backend%2Crudranil-devo%2Fmy-first-project%2Crudranil-devo%2FRudranil-devo&v=recruiter-projects-1&mode=dark" width="100%" alt="Rudranil Chatterjee selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Rudranil-devo/aurastream-backend">aurastream-backend</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Rudranil-devo/aurastream-backend">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Rudranil-devo/my-first-project">my-first-project</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Rudranil-devo/Rudranil-devo">Rudranil-devo</a></h3><p>My GitHub profile</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Rudranil Chatterjee technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center"><strong>HTML</strong><br /><sub>61% of public code</sub></td>
+<td width="50%" align="center"><strong>Python</strong><br /><sub>39% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rudranil-devo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331300774%3Fu%3Dd2158c79c4e26e420f7e19481fe5ecd321c543b0%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Rudranil Chatterjee contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/rudranil-devo">GitHub</a><br /><a href="https://(https://github.com/Rudranil-devo/my-first-project)">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Rudranil Chatterjee · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
